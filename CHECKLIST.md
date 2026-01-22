@@ -18,16 +18,16 @@
 - [x] pipeline-service/services/ingestion.py
 
 ## Verification Steps
-- [ ] All services start: `docker-compose up -d`
-- [ ] Flask endpoints work
-- [ ] FastAPI endpoints work
-- [ ] Data ingestion successful
-- [ ] Database contains data
-- [ ] No hardcoded credentials
-- [ ] All tests pass: `.\test-all.ps1`
+- [x] All services start: `docker-compose up -d`
+- [x] Flask endpoints work
+- [x] FastAPI endpoints work
+- [x] Data ingestion successful
+- [x] Database contains data
+- [x] No hardcoded credentials
+- [x] All tests pass: `.\test-all.ps1`
 
 ## Submission
-- [ ] Code pushed to GitHub
-- [ ] Repository is public
-- [ ] README is clear and complete
-- [ ] Email GitHub link to assessment provider
+- [x] Code pushed to GitHub
+- [x] Repository is public
+- [x] README is clear and complete
+- [x] Email GitHub link to assessment provider
